@@ -8,4 +8,5 @@ int main() {
 	char *upper_case = toUpperCase(lower_case);
 	printf("%s\n\n", upper_case);
 	free(upper_case);
+	return 0;
 }
