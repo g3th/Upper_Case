@@ -1,4 +1,4 @@
-#Upper Case Function in C
+# Upper Case Function in C
 ## Turning a lower case string to upper case in C
 
 Learning the basics of working and manipulating strings in C, including memory allocation,
