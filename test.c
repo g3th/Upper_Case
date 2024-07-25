@@ -31,7 +31,7 @@ static void assert_test(char test_type[], int t) {
 	}
 }
 
-static int test_invalid_input(char *c) {
+int test_invalid_input(char *c) {
 	size_t string_size = strlen(c);
 	if (c[0] == 32 && c[1] == 32) {
 		return TRUE;
